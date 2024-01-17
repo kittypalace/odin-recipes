@@ -1,1 +1,3 @@
 # odin-recipes
+
+This is a project about building recipes in HTML...
